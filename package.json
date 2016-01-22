@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "test": "coffee"
+    },
+    "dependencies": {
+        "dnode": "^1.2.2",
+        "grappling-hook": "^3.0.0",
+        "hooks": "^0.3.2"
+    },
+        "devDependencies": {
+        "coffee-script": "^1.10.0"
+    }
+}
